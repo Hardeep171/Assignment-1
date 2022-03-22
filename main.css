@@ -1,0 +1,41 @@
+body{
+    background-color: black;
+    color: white;
+}
+.c1,.c2{
+    text-align: center;
+    text-decoration: underline;
+    font-size: xx-large;
+    
+}
+b{
+    color: yellow;
+}
+form{
+    border: 5px dotted #eb5757;
+}
+.c3{
+    background: linear-gradient(to right,black,red);
+}
+.num{
+    margin: 2px;
+}
+.btn{
+    background: linear-gradient(to right,white,pink,red);
+    border: 2px;
+    border-radius: 50px;
+    margin-left: 5px;
+    margin-bottom: 2px;
+}
+
+img{
+    width: 99%;
+    margin-left: 5px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    border: 2px solid ;
+    border-radius: 20px;
+}
+.car{
+    background-color: white;
+}
